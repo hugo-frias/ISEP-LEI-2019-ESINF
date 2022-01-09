@@ -1,0 +1,12 @@
+#surefire
+#Sun Oct 06 12:41:02 BST 2019
+jpda.address=60311
+maven.ext.class.path=C\:\\Program Files\\NetBeans 8.2\\java\\maven-nblib\\netbeans-eventspy.jar
+file.encoding=UTF-8
+jpda.listen=true
+forkMode=once
+user.dir=C\:\\Users\\Vera Pinto\\Desktop\\Faculdade\\ESINF-2DE-1170500-1180730\\ESINF-2DE-1170500-1180730
+localRepository=C\:\\Users\\Vera Pinto\\.m2\\repository
+test=com.mycompany.esinf.de.CountBordersTest
+basedir=C\:\\Users\\Vera Pinto\\Desktop\\Faculdade\\ESINF-2DE-1170500-1180730\\ESINF-2DE-1170500-1180730
+maven.surefire.debug=-Xdebug -Xrunjdwp\:transport\=dt_socket,server\=n,address\=60311
